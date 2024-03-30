@@ -1,2 +1,2 @@
 print("xd")
-print("te")
+print("t")
